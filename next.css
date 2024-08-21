@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+header .tagline {
+    font-style: italic;
+    color: #555;
+    margin: 10px 0;
+}
+
+header .mission-statement {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+.section {
+    padding: 20px;
+    text-align: center;
+}
+
+.section h2 {
+    font-size: 22px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.section p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
